@@ -1,0 +1,474 @@
+.body-text{
+    position: relative;
+    height: 421px;
+    width: 562px;
+    top: -425px;
+    left: 183px;
+}
+.rsh{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    font-size: 49px;
+    top: 25px;
+    left: 0px;
+
+}
+.para-redy{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 18px;
+    top: 0px;
+    left: 0px;
+    line-height: 1.5; 
+}
+.lrn-mor{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    border-radius: 50px;
+    top: 24px;
+    left: 0px;
+    font-weight: bold;
+    padding: 14px 40px;
+    box-shadow: none;
+    font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .body-text {
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -100px;
+  }
+
+  .rsh {
+    font-size: 36px;
+  }
+
+  .para-redy {
+    font-size: 16px;
+  }
+
+  .lrn-mor {
+    font-size: 14px;
+    padding: 10px 30px;
+  }
+}
+.pge-2{
+  position: relative;
+  width: 100%;
+  height: 408px;
+  top: -423px;
+}
+.pge-sticker{
+  position: relative;
+  height: 341px;
+  top: -809px;
+  left: 318px;
+}
+
+@media (max-width: 768px) {
+  .pge-2 {
+    width: 781px;
+        height: 609px;
+    }
+   .pge-sticker{
+    height: 281px;
+    top: -1041px;
+    left: 163px;
+   } 
+
+}
+.secondpagetext{
+  position: relative;
+  width: 500px;
+  height: 308px;
+  margin-top: -1145px;
+  margin-left: 733px;
+ 
+}
+.pepperthing{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  top: 30px;
+  left: 0px;
+}
+.sgn-log{
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  color: darkred;
+  border-radius: 50px;
+  top: 16px;
+  left: 0px;
+  font-weight: bold;
+  padding: 14px 40px;
+  box-shadow: none;
+  font-size: 16px;
+}
+@media (max-width: 768px) {
+  .secondpagetext {
+    margin-top: -1028px;
+    margin-left: 127px;
+  }
+  .pepperthing{
+    top: 30px;
+    left: 0px;
+    font-size: 25px;
+  }
+
+
+}
+.pagethreediv{
+  position: absolute;
+  width: 100%;
+  height: 402px;
+  background-color: rgb(200, 21, 51);
+}
+.thirdpgetxtdiv{
+  position: relative;
+  width: 581px;
+  height: 277px;
+  top: 43px;
+  left: 177px;
+}
+.fyf{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  top: 0px;
+  left: 0px;
+}
+.merchswag{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-size: 18px;
+  top: 0px;
+  left: 0px;
+  line-height: 1.5; 
+}
+.shp-merch{
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  color: darkred;
+  border-radius: 50px;
+  top: 16px;
+  left: 0px;
+  font-weight: bold;
+  padding: 14px 40px;
+  box-shadow: none;
+  font-size: 16px;
+}
+.tshirt{
+  position: relative;
+  height: 335px;
+  top: -210px;
+  left: 669px;
+}
+@media (max-width: 768px) {
+  .pagethreediv{
+    width: 784px;
+    height: 724px;
+  }
+  .thirdpgetxtdiv{
+    width: 581px;
+    height: 287px;
+    top: 453px;
+    left: 100px;
+  }
+  .tshirt {
+    height: 335px;
+    top: -210px;
+    left: 40px;
+}
+}
+.forthblackbag{
+  position: relative;
+  width: 100%;
+  height: 473px;
+  background-color: black;
+  top: 372px;
+  
+}
+.forth-text{
+  position: relative;
+  width: 575px;
+  height: 267px;
+  top: 80px;
+  left: 704px;
+}
+.blackhead{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  top: 0px;
+  left: 0px;
+}
+.blackfoot{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-size: 22px;
+  top: 0px;
+  left: 0px;
+  line-height: 1.5;
+}
+.explore-button{
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  color: darkred;
+  border-radius: 50px;
+  top: 7px;
+  left: 0px;
+  font-weight: bold;
+  padding: 14px 40px;
+  box-shadow: none;
+  font-size: 16px;
+}
+.soda{
+  position: relative;
+  height: 384px;
+  top: -268px;
+  left: 267px;
+}
+@media (max-width: 768px) {
+  .forthblackbag{
+    width: 784px;
+    height: 558px;
+    top: 724px;
+  }
+  .forth-text{
+    width: 575px;
+    height: 267px;
+    top: 331px;
+    left: 166px;
+  }
+  .soda{
+    
+    height: 323px;
+    top: -268px;
+    left: 183px;
+
+}
+}
+.redone{
+  position: relative;
+  width: 100%;
+  height: 179px;
+  background-color: rgb(148, 8, 8);
+  top: 372px;
+}
+.text-img-second{
+  position: relative;
+  height: 54px;
+  top: 45px;
+  left: 86px;
+}
+.peppercom{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 66px;
+  left: -19px;
+}
+.r1faq{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 15px;
+  left: 63px;
+}
+.r1contact{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 60px;
+  left: 23px;
+}
+.r1ppol{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 13px;
+  left: 121px;
+}
+.r1capr{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 46px;
+  left: 0px;
+}
+.r1wrninfo{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 58px;
+  left: 476px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+}
+.r1cap1{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: -65px;
+  left: 790px;
+}
+.r1cap2{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: -31px;
+  left: 678px;
+}
+.r1cap3{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 4px;
+  left: 569px;
+}
+.r1cap4{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: -66px;
+  left: 616px;
+}
+.r1cap5{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: -30px;
+  left: 547px;
+}
+.r1cap6{
+  position: relative;
+  color: rgb(255, 255, 255);
+  font-family: 'Aktiv Grotesk Extended', sans-serif;
+  font-weight: 800;
+  font-size: 15px;
+  top: 3px;
+  left: 363px;
+}
+
+@media (max-width: 768px) {
+  .redone{
+    width: 781px;
+    height: 662px;
+    top:724px;
+  }
+  .r1faq{
+    font-size: 15px;
+    top: 15px;
+    left: -151px;
+  }
+  .r1contact{
+    font-size: 15px;
+    top: 51px;
+   left: -199px;
+  }
+  .r1ppol{
+    font-size: 15px;
+    top: 13px;
+    left: -152px;
+  }
+  .r1capr{
+    
+    font-size: 15px;
+    top: 52px;
+    left: -273px;
+  }
+  .r1wrninfo{
+    font-size: 15px;
+    top: 58px;
+    left: 202px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+  }
+  .r1cap1{
+    font-size: 15px;
+    top: 66px;
+    left: 204px;
+  }
+  .r1cap2{
+    font-size: 15px;
+    top: 107px;
+    left: 90px;
+  }
+  .r1cap3{
+
+    font-size: 15px;
+    top: 144px;
+    left: -19px;
+  }
+  .r1cap4{
+
+    font-size: 15px;
+    top: 178px;
+    left: -186px;
+  }
+  .r1cap5{
+
+    font-size: 15px;
+    top: 213px;
+    left: -255px;
+  }
+  .r1cap6{
+
+    font-size: 15px;
+    top: 247px;
+        left: -439px;
+  }
+  .text-img-second{
+    height: 54px;
+    top: 22px;
+    left: 645px;
+  }
+  .peppercom{
+
+    font-size: 15px;
+    top: 66px;
+    left: 546px;
+  }
+}
+
+
